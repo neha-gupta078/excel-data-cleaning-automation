@@ -73,4 +73,4 @@ Data cleaning takes up a large part of an analyst's time. Removing duplicates, d
 
 **Neha Gupta**
 BCA Graduate | Aspiring Data Analyst
-LinkedIn: add your profile link here
+LinkedIn: https://www.linkedin.com/in/neha-gupta-483257379
